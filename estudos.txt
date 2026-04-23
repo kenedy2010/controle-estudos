@@ -1,0 +1,8 @@
+O Git é um sistema de controle de versão que permite acompanhar mudanças em arquivos ao longo do tempo. Ele funciona registrando estados do projeto por meio de commits, que são como “fotos” do código em determinado momento. Com ele, você pode trabalhar com branches, que são linhas paralelas de desenvolvimento, e depois juntar tudo usando merge. Também é possível clonar projetos existentes, enviar alterações com push e atualizar seu código com pull, o que facilita bastante o trabalho em equipe.
+
+O GitHub entra como uma plataforma online onde esses repositórios Git ficam armazenados. Ele permite que várias pessoas colaborem no mesmo projeto, acompanhem alterações, abram issues para organizar tarefas e utilizem pull requests para revisar código antes de integrar mudanças. Basicamente, o Git cuida do versionamento local e distribuído, enquanto o GitHub facilita o compartilhamento e a colaboração pela internet.
+
+Já o Visual Studio Code integra tudo isso de forma visual. Dentro do editor você consegue ver quais arquivos foram modificados, preparar mudan  
+ças, fazer commits e sincronizar com o GitHub sem precisar usar tantos comandos no terminal. Ele também ajuda na criação e troca de branches e na resolução de conflitos, tornando o uso do Git mais acessível, especialmente para quem está começando.
+btw
+git focado
